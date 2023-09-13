@@ -1,0 +1,4 @@
+Jjjjj Aditi has used text editing software to type some text. Aftersaving the article as words.txt, 
+she realized that she had wronglytyped the alphabet “J" instead of “I" everywhere in the article.
+Write a function definition for JtoI() in Python that would display the corrected version of the 
+entire content of the file WORDS.TXT with all the alphabet "J" to be displayed as an alphabet "I" on thescreen.
